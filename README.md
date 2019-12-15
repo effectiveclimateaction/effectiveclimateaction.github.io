@@ -1,3 +1,6 @@
+layout: page
+title: "Effective Climate Action"
+
 # Effective Climate Action
 `http://effectiveclimateaction.github.io`
 
